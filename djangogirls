@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EE6-A893
+
+ Directory of C:\Users\Esther\djangogirls
+
+03-11-2018  10:29    <DIR>          .
+03-11-2018  10:29    <DIR>          ..
+02-11-2018  21:06    <DIR>          .idea
+03-11-2018  10:29               575 djangogirl
+03-11-2018  10:29                 0 djangogirls
+03-11-2018  10:24               553 manage.py
+03-11-2018  10:24    <DIR>          mysite
+02-11-2018  18:13    <DIR>          myvenv
+03-11-2018  10:20                13 requirements.txt
+               4 File(s)          1.141 bytes
+               5 Dir(s)  81.639.841.792 bytes free
